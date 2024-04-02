@@ -5,6 +5,7 @@ Group 1 final project - Automated Software Engineering
 - Breast Cancer (classification)
 - Churn (classification)
 - auto93(regression)
+- Adult (classification)
 
 ## Possible Data Under-Sampling/Over-Sampling Techniques that we will use
 - Intelligent Pruning (under-sampling)
