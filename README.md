@@ -6,6 +6,7 @@ Automated Software Engineering (Group 1) research project where we :
 ## Datasets
 - Breast Cancer (classification)
 - Churn (classification)
+- JavaScript vulnerabilities (classification) {https://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet/}
 - Will add more classification datasets - https://github.com/yrahul3910/SyntheticOversampling/tree/main/data
 
 ## Data sampling techniques used/created
