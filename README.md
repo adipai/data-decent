@@ -1,5 +1,7 @@
-# statistical-data-pruning-analysis
-Group 1 final project - Automated Software Engineering
+# Data decent
+Automated Software Engineering (Group 1) research project where we :
+* Create an intelligent data pruning mechanism
+* Perform statistical analysis of intelligently choosing 'least' amount of 'best' data  for data mining tasks
 
 ## Datasets
 - Breast Cancer (classification)
