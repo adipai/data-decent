@@ -8,9 +8,9 @@ Automated Software Engineering (Group 1) research project where we :
 - Churn (classification)
 - JS_Vuln (classification) A
 - Ambari_Vuln (classification) A
-- Moodle_Vuln (classification) R
 - Defect_Eclipse_JDT_Core (classification) R
-- Defect_Eclipse_PDE_UI (classification) D
+- Defect_Eclipse_PDE_UI (classification) R
+- Moodle_Vuln (classification) D
 - Defect_Mylyn (classification) D
 
 ## Data sampling techniques used/created
