@@ -39,11 +39,13 @@ Data quality is a critical metric in ensuring that machine learning models perfo
 - Decision Tree
 
 ## How to run code
-The code (notebooks) used has been provided under `/src`. For experimentation, notebooks under `src/experiments` showcase how to load the data and run for an interation. For running experiments in the larger context notebooks under `/src/automation` specifiy the details of all the experiments runs and is also the main source of data collected.
+The code (notebooks) used has been provided under `/src`. For experimentation, notebooks under `src/experiments` showcase how to load the data and run for an interation. For running experiments in the larger context notebooks under `/src/automation` specifiy the details of all the experiments runs and is also the main source of data collected. Files in `/src/automation` will generate a csv file for each sampling technique.
 
 `/src/analyse_scott_knott.ipynb` - This notebook takes the results from the previous steps and plots the scott knott graphs. These graphs are stored under `/results/**/sk/` respectively for all the datasets.
 
-``
+`src/runtime_analysis.ipynb` - This notebook mesures the time taken by each sampling technique for 100% sampling.
+
+`src/data_distribution.ipynb` - This notebook determines the class distribution for all datasets.
 
 ## Results
 Find scott-knott plots, go to results/{dataset_name}/sk/
