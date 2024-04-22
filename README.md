@@ -38,6 +38,13 @@ Data quality is a critical metric in ensuring that machine learning models perfo
 - SVM
 - Decision Tree
 
+## Evaluation metrics sampling techniques
+- Accuracy of learner
+- Precision of learner
+- Recall of learner
+- F1 score of learner
+- Average wins of each sampling technique based on above 4 metrics
+
 ## How to run code
 The code (notebooks) used has been provided under `/src`. For experimentation, notebooks under `src/experiments` showcase how to load the data and run for an interation. For running experiments in the larger context notebooks under `/src/automation` specifiy the details of all the experiments runs and is also the main source of data collected. Files in `/src/automation` will generate a csv file for each sampling technique.
 
