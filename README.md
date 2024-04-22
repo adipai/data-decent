@@ -32,8 +32,7 @@ Automated Software Engineering (Group 1) research project where we :
 ## Results
 To see scott-knott plots, go to results/{dataset_name}/sk/
 
-## Citations
-* X. Ling, T. Menzies, C. Hazard, J. Shu and J. Beel, "Trading Off Scalability, Privacy, and Performance in Data Synthesis," in IEEE Access, vol. 12, pp. 26642-26654, 2024, doi: 10.1109/ACCESS.2024.3366556.
-keywords: {Synthetic data;Clustering algorithms;Data models;Engines;Biomedical imaging;Generative adversarial networks;Data privacy;Regression analysis;Classification algorithms;Scalability;Homomorphic encryption;Synthetic data generation;privacy preservation;regression;classification},
-* https://github.com/yrahul3910/SyntheticOversampling {RRP oversampling}
-
+## Team members
+[Rishi Singhal](https://www.linkedin.com/in/rishi-singhal1101/)<br/>
+[Deepak Rajendran](https://www.linkedin.com/in/deepr41)<br/>
+[Aditya Pai Brahmavar](https://www.linkedin.com/in/adityapai16/)<br/>
