@@ -54,13 +54,15 @@ The code (notebooks) used has been provided under `/src`. For experimentation, n
 
 `src/data_distribution.ipynb` - This notebook determines the class distribution for all datasets.
 
-## Results
+## Results]
+
+### Scott-knott plots
 Find scott-knott plots, go to results/{dataset_name}/sk/
 
 ### Radar plot of results
 ![radar_chart](https://github.com/adipai/data-decent/assets/22258487/1446cad5-3fba-4263-94d2-5ad015bdb1d9)
 
-As we can see, the area covered by Intelligent Data Pruning(orange line)  is much higher than other techniques.
+As we can see, the area covered by Intelligent Data Pruning (orange line) is much higher than other techniques. Hence, we conclude that intelligent pruning is much more scalable and achieves competitive model performance in comparison to other sampling techniques.
 
 ## Citations
 * X. Ling, T. Menzies, C. Hazard, J. Shu and J. Beel, "Trading Off Scalability, Privacy, and Performance in Data Synthesis," in IEEE Access, vol. 12, pp. 26642-26654, 2024, doi: 10.1109/ACCESS.2024.3366556.
