@@ -54,10 +54,10 @@ The code (notebooks) used has been provided under `/src`. For experimentation, n
 
 `src/data_distribution.ipynb` - This notebook determines the class distribution for all datasets.
 
-## Results]
+## Results
 
 ### Scott-knott plots
-Find scott-knott plots, go to results/{dataset_name}/sk/
+To find scott-knott plots for a particular metric for a given learner, go to results/{dataset_name}/sk/ for respective dataset 
 
 ### Radar plot of results
 ![radar_chart](https://github.com/adipai/data-decent/assets/22258487/1446cad5-3fba-4263-94d2-5ad015bdb1d9)
