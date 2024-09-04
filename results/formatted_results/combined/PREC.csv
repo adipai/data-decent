@@ -1,0 +1,9 @@
+,ambari_vuln,defect_mylyn,eclipse_JDT,eclipse_PDE,js_vuln,moodle_vuln
+svm_smote,0.4,0.37,0.54,0.36,0.51,0.0
+No_Sampling,0.4,0.37,0.54,0.36,0.51,0.0
+RRP,0.4,0.37,0.54,0.36,0.51,0.0
+gaussian_copula,0.4,0.37,0.54,0.36,0.51,0.0
+intelligent_pruning,0.4,(0.75),(0.69),(0.48),(0.72),(0.29)
+random_oversampling,0.4,(0.75),(0.69),(0.48),(0.72),(0.29)
+random_pruning,0.4,(0.79),(0.69),(0.48),(0.72),(0.29)
+smote,(0.4),(0.79),(0.69),(0.48),(0.72),(0.29)
