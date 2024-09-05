@@ -1,0 +1,9 @@
+,0.0,0.2,0.4,0.6,0.8,1.0
+svm_smote,-inf,0.97,0.97,0.97,0.97,0.97
+No_Sampling,0.97,-inf,-inf,-inf,-inf,-inf
+RRP,-inf,0.96,0.96,0.96,0.95,0.95
+gaussian_copula,-inf,0.97,0.97,0.97,0.97,0.97
+intelligent_pruning,-inf,0.97,0.97,0.96,0.93,0.93
+random_oversampling,-inf,0.98,(0.98),(0.98),0.98,0.98
+random_pruning,-inf,0.97,0.97,0.96,0.94,0.58
+smote,-inf,0.95,0.96,0.95,0.96,0.95
