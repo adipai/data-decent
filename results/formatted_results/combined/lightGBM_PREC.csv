@@ -1,9 +1,9 @@
 ,ambari_vuln,defect_mylyn,eclipse_JDT,eclipse_PDE,js_vuln,moodle_vuln
 svm_smote,(0.02),0.67,0.59,0.18,0.8,0.0
-No_Sampling,(0.02),0.67,0.59,0.18,0.8,0.0
-RRP,(0.02),0.67,0.59,0.18,0.8,0.0
-gaussian_copula,(0.02),(0.7),0.59,0.18,(0.83),0.0
-intelligent_pruning,(0.02),(0.7),0.59,(0.21),(0.83),(0.11)
-random_oversampling,(0.02),(0.7),(0.6),(0.21),(0.83),(0.11)
-random_pruning,(0.02),(0.7),(0.6),(0.21),(0.83),(0.11)
-smote,(0.02),(0.7),(0.6),(0.21),(0.83),(0.11)
+No_Sampling,0.01,-inf,0.57,0.16,0.8,0.0
+RRP,0.01,0.63,0.58,-inf,-inf,0.0
+gaussian_copula,0.01,(0.7),0.56,0.17,(0.83),0.0
+intelligent_pruning,0.01,0.63,0.59,(0.21),0.78,(0.11)
+random_oversampling,0.01,0.6,(0.6),0.18,0.76,0.0
+random_pruning,0.01,0.62,0.56,0.18,0.78,0.0
+smote,0.02,0.7,0.59,0.17,0.81,0.0
